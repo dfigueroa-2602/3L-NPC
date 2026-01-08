@@ -1,0 +1,6 @@
+*.json
+*.asv
+*.slxc
+
+*/C_code/build/CMakeFiles
+*/MATLAB/slprj
